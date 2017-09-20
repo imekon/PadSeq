@@ -3770,6 +3770,9 @@
     <ClInclude Include="..\..\Source\PadModel.h">
       <Filter>PadSeq\Source</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\PadMapper.h">
+      <Filter>PadSeq\Source</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\..\JUCE\modules\juce_audio_formats\codecs\flac\Flac Licence.txt">

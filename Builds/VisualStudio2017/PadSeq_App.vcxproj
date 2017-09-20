@@ -1708,6 +1708,7 @@
   <ItemGroup>
     <ClInclude Include="..\..\Source\PadComponent.h" />
     <ClInclude Include="..\..\Source\MainWindow.h" />
+    <ClInclude Include="..\..\Source\PadMapper.h" />
     <ClInclude Include="..\..\Source\PadModel.h" />
     <ClInclude Include="..\..\Source\PadSeqApplication.h" />
     <ClInclude Include="..\..\Source\MainComponent.h" />
